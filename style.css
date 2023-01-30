@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.parent {
+  background-color: #F2921D;
+  color: #D9ACF5;
+  width: 100px;
+  height: 200px;
+}
+
+.child {
+  display: inline;
+  background-color: #AEE2FF;
+  color: #5D3891;
+  width: 100px;
+  height: 70px;
+  margin: 20px;
+  margin: dotted;
+}
